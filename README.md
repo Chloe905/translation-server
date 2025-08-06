@@ -20,15 +20,15 @@ cd tanslation-server
 ``
 ### 2. npm install
 
-3. 建立 .env 檔案，填入你的 DeepL API 金鑰
+### 3. 建立 .env 檔案，填入你的 DeepL API 金鑰
 `` env
 DEEPL_API_KEY=你的_deepl_api_key
 ``
 你可以從這裡取得金鑰：https://www.deepl.com/account/summary
 
-4. 啟動伺服器
+### 4. 啟動伺服器
 ``bash
 npm start
 ``
-伺服器將會運行在：
+### 5. 伺服器將會運行在：
 `http://localhost:3001`
